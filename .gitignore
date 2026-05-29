@@ -1,0 +1,8 @@
+# macOS
+.DS_Store
+
+# Large DataSets
+data/DataCoSupplyChainDataSet.csv
+data/DataCoSupplyChainDataSet_cleaned.xlsx
+data/tokenized_access_logs.csv
+data/DescriptionDataCoSupplyChain.csv
