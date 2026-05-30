@@ -1,0 +1,32 @@
+[
+  {
+    "log_month":"2017-09-01",
+    "log_month_label":"2017-09",
+    "pageviews":137238,
+    "unique_ips":3325
+  },
+  {
+    "log_month":"2017-10-01",
+    "log_month_label":"2017-10",
+    "pageviews":84205,
+    "unique_ips":1884
+  },
+  {
+    "log_month":"2017-11-01",
+    "log_month_label":"2017-11",
+    "pageviews":80860,
+    "unique_ips":3323
+  },
+  {
+    "log_month":"2017-12-01",
+    "log_month_label":"2017-12",
+    "pageviews":84093,
+    "unique_ips":1884
+  },
+  {
+    "log_month":"2018-01-01",
+    "log_month_label":"2018-01",
+    "pageviews":83581,
+    "unique_ips":3323
+  }
+]

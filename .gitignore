@@ -6,3 +6,6 @@ data/DataCoSupplyChainDataSet.csv
 data/DataCoSupplyChainDataSet_cleaned.xlsx
 data/tokenized_access_logs.csv
 data/DescriptionDataCoSupplyChain.csv
+analysis/*.sqlite
+*.sqlite
+*.db

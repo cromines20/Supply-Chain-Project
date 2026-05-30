@@ -1,0 +1,29 @@
+[
+  {
+    "Customer Segment":"Consumer",
+    "sales":19095790.1551733091,
+    "profit":2073487.671913526,
+    "orders":34119,
+    "late_rate":0.5480835044,
+    "profit_margin":0.1085834969,
+    "sales_share":0.5191226781
+  },
+  {
+    "Customer Segment":"Corporate",
+    "sales":11168406.8429908305,
+    "profit":1202574.961506601,
+    "orders":19856,
+    "late_rate":0.5472266331,
+    "profit_margin":0.1076765002,
+    "sales_share":0.3036152589
+  },
+  {
+    "Customer Segment":"Home Office",
+    "sales":6520538.0152157061,
+    "profit":690840.34063023,
+    "orders":11777,
+    "late_rate":0.5507044002,
+    "profit_margin":0.1059483648,
+    "sales_share":0.177262063
+  }
+]

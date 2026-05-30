@@ -1,0 +1,47 @@
+[
+  {
+    "check":"Order rows",
+    "value":180519,
+    "note":"Line-level order records in DataCoSupplyChainDataset.csv"
+  },
+  {
+    "check":"Distinct orders",
+    "value":65752,
+    "note":"Order IDs can appear on multiple product lines"
+  },
+  {
+    "check":"Distinct customers",
+    "value":20652,
+    "note":"Customer IDs after masking names\/email\/password"
+  },
+  {
+    "check":"Order date range",
+    "value":"2015-01-01 to 2018-01-31",
+    "note":"2018 contains January only"
+  },
+  {
+    "check":"Access log rows",
+    "value":469977,
+    "note":"Product pageview records in tokenized_access_logs.csv"
+  },
+  {
+    "check":"Access log date range",
+    "value":"2017-09-01 to 2018-01-31",
+    "note":"Access logs cover only Sep 2017-Jan 2018"
+  },
+  {
+    "check":"Product description missing",
+    "value":"100.0%",
+    "note":"Field is not useful for analysis"
+  },
+  {
+    "check":"Order zipcode missing",
+    "value":"86.2%",
+    "note":"Use Market \/ Order Region instead of zipcode"
+  },
+  {
+    "check":"Canceled\/fraud sales share",
+    "value":"4.3%",
+    "note":"Potential caveat: status handling should be confirmed with stakeholders"
+  }
+]

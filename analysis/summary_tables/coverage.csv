@@ -1,0 +1,10 @@
+check,value,note
+Order rows,180519,Line-level order records in DataCoSupplyChainDataset.csv
+Distinct orders,65752,Order IDs can appear on multiple product lines
+Distinct customers,20652,Customer IDs after masking names/email/password
+Order date range,2015-01-01 to 2018-01-31,2018 contains January only
+Access log rows,469977,Product pageview records in tokenized_access_logs.csv
+Access log date range,2017-09-01 to 2018-01-31,Access logs cover only Sep 2017-Jan 2018
+Product description missing,100.0%,Field is not useful for analysis
+Order zipcode missing,86.2%,Use Market / Order Region instead of zipcode
+Canceled/fraud sales share,4.3%,Potential caveat: status handling should be confirmed with stakeholders

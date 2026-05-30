@@ -1,0 +1,58 @@
+[
+  {
+    "Shipping Mode":"Standard Class",
+    "sales":22022391.8798092939,
+    "profit":2370454.4528039652,
+    "orders":39324,
+    "order_lines":107752,
+    "late_orders":41023,
+    "late_rate":0.3807168312,
+    "avg_real_days":3.9959072685,
+    "avg_scheduled_days":4.0,
+    "avg_delay_days":-0.0040927315,
+    "profit_margin":0.107638374,
+    "late_order_share":0.4144700284
+  },
+  {
+    "Shipping Mode":"Second Class",
+    "sales":7145444.8183589149,
+    "profit":750308.170265433,
+    "orders":12778,
+    "order_lines":35216,
+    "late_orders":26987,
+    "late_rate":0.7663278055,
+    "avg_real_days":3.9908280327,
+    "avg_scheduled_days":2.0,
+    "avg_delay_days":1.9908280327,
+    "profit_margin":0.1050051032,
+    "late_order_share":0.2726593047
+  },
+  {
+    "Shipping Mode":"First Class",
+    "sales":5674369.7582025528,
+    "profit":643121.920739061,
+    "orders":10079,
+    "order_lines":27814,
+    "late_orders":26513,
+    "late_rate":0.9532249946,
+    "avg_real_days":2.0,
+    "avg_scheduled_days":1.0,
+    "avg_delay_days":1.0,
+    "profit_margin":0.1133380354,
+    "late_order_share":0.2678703133
+  },
+  {
+    "Shipping Mode":"Same Day",
+    "sales":1942528.5570090851,
+    "profit":203018.430241898,
+    "orders":3571,
+    "order_lines":9737,
+    "late_orders":4454,
+    "late_rate":0.45743042,
+    "avg_real_days":0.4782787306,
+    "avg_scheduled_days":0.0,
+    "avg_delay_days":0.4782787306,
+    "profit_margin":0.1045124559,
+    "late_order_share":0.0450003536
+  }
+]

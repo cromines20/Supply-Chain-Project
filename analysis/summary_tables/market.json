@@ -1,0 +1,47 @@
+[
+  {
+    "Market":"Europe",
+    "sales":10872396.7956550401,
+    "profit":1169442.960997907,
+    "orders":18561,
+    "late_rate":0.5520775293,
+    "profit_margin":0.1075607323,
+    "sales_share":0.2955681696
+  },
+  {
+    "Market":"LATAM",
+    "sales":10277612.8409423437,
+    "profit":1123321.6114915421,
+    "orders":17181,
+    "late_rate":0.5435515758,
+    "profit_margin":0.1092979108,
+    "sales_share":0.2793988549
+  },
+  {
+    "Market":"Pacific Asia",
+    "sales":8273743.7406170173,
+    "profit":857753.4411070989,
+    "orders":17577,
+    "late_rate":0.5504604944,
+    "profit_margin":0.1036717438,
+    "sales_share":0.2249232933
+  },
+  {
+    "Market":"USCA",
+    "sales":5066528.710962289,
+    "profit":564313.780381358,
+    "orders":8579,
+    "late_rate":0.5480057367,
+    "profit_margin":0.1113807525,
+    "sales_share":0.1377345442
+  },
+  {
+    "Market":"Africa",
+    "sales":2294452.9252031562,
+    "profit":252071.180072451,
+    "orders":3854,
+    "late_rate":0.5458928879,
+    "profit_margin":0.1098611252,
+    "sales_share":0.0623751381
+  }
+]
